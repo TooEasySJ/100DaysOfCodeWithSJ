@@ -1,4 +1,5 @@
-Log of Round 1 of #100DaysOfCode - done in 2016
+# Journal of #100DaysOfCode 
+
 Day 1: June 13. Monday
 Today's Progress: Spent time fixing CSS and figuring out how canvas works.
 
